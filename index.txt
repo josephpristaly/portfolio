@@ -2,27 +2,24 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Professor 
+Professor
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
-
-Phone
-+1 (213) 352-2795
+professor@edumentors.eu.org
 
 Birthday
-June 23, 1982
+June 24
 
 Location
 Sacramento, California, USA
 
 # navbar
 
-About
+About Me
 Resume
 Portfolio
 Blog
@@ -95,7 +92,8 @@ Education
 
 University school of the arts
 2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Govt Science College, Tejgaon, Dhaka
+Here I completed my Higher Secondary School
 
 New york academy of art
 2006 — 2007
@@ -124,7 +122,7 @@ My skills
 Web design
 80%
 Graphic design
-70%
+40%
 Branding
 90%
 WordPress
