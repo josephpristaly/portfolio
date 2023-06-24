@@ -477,7 +477,7 @@ main {
 
 .navbar-link {
   color: var(--light-gray);
-  font-size: var(--fs-8);
+  font-size: var(--fs-10);
   padding: 20px 7px;
   transition: color var(--transition-1);
 }
@@ -1377,7 +1377,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .navbar-list { gap: 20px; }
 
-  .navbar-link { --fs-8: 14px; }
+  .navbar-link { --fs-10: 14px; }
 
 
 
@@ -1576,7 +1576,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * NAVBAR
    */
 
-  .navbar-link { --fs-8: 15px; }
+  .navbar-link { --fs-10: 15px; }
 
 
 
